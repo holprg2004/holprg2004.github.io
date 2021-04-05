@@ -3,10 +3,10 @@
 #
 
 # Name of the site (displayed in the header)
-name: ЮниорКод
+name: HOLPRG-2004
 
 # Short bio or description (displayed in the header)
-description: Школа программирования
+description: Preparation materials for HOLPRG-2004
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://user-images.githubusercontent.com/60174786/99256509-8fb7fc80-2826-11eb-88ec-6151b971ee8b.png
@@ -19,18 +19,18 @@ logo_icon: https://user-images.githubusercontent.com/60174786/99256599-b1b17f00-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: education_krylatskoe@juniorcode.ru
-  facebook: juniorcode.krylatskoe
+  email: sesazhin@cisco.com
+  facebook: 
   flickr:
-  instagram: juniorcode_krylatskoe
-  linkedin:
+  instagram: 
+  linkedin: https://www.linkedin.com/in/sergey-sazhin-a9b9a533/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  whatsapp: 79150353567?text=Добрый день. Подскажите, пожалуйста, 
+  whatsapp: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -38,7 +38,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-C4N7FCFN6G
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
