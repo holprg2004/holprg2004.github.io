@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Инфо
+title: Info
 permalink: /about/
 ---
 
-### Для чего этот сайт?
+### What is the purpose of this site?
 
-Здесь публикуем материалы, пройденные на занятиях в школе программирования "ЮниорКод".
+On this website preparation materials for Cisco Live 2021 Hands-on lab HOLPRG-2004 are published.
+We encourage all participants to review these materials to get the best experience during the lab session.
 
-### Связаться с нами можно одним из способов, указанных внизу страницы
+### You can reach out to us using one of the communication ways shown in the footer of this page.
