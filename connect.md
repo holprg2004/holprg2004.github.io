@@ -6,7 +6,9 @@ permalink: /connect/
 
 ### Before proceeding to the tests, please ensure:
 1. Anyconnect 4.9 installed, if not download from [Cisco.com](https://software.cisco.com/download/home/286281283/type/282364313/release/4.9.04053?i=!pp) 
+<br />
 (search for **anyconnect-win-4.9.04053-predeploy-k9.zip**).
+<br />
 After download, open this archive and install **anyconnect-win-4.9.06037-core-vpn-predeploy-k9.msi**.
 <br />
 2. Microsoft Remote Desktop installed (if running non-Windows OS).
