@@ -16,8 +16,8 @@ After download, open this archive and install **anyconnect-win-4.9.06037-core-vp
 
 ### Login to dCloud
 1. Log	in	to	dCloud	portal.
-2. Open the Test Event URL:
-[URL](https://dcloud2-lon.cisco.com/event/391756/access)
+2. Open the Test Event 
+[URL](https://dcloud2-lon.cisco.com/event/391756/access).
 <br />
 <br />
 **If you get a notification about no sessions available please try again in a few minutes.**
