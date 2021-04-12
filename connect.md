@@ -50,6 +50,7 @@ The test pod consists of a Linux VM only.
 <br />
 3. Ensure RDP connection has been established successfully and you are able to see remote desktop.
 <br />
+
 ### Share the results of both test
 In the Webex space created for the lab session please share the test results with your 
 instructors, you might want to use the example below:<br />
