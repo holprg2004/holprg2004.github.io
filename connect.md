@@ -17,9 +17,11 @@ After download, open this archive and install **anyconnect-win-4.9.06037-core-vp
 2. Open the Test Event URL:
 [URL](https://dcloud2-lon.cisco.com/event/391756/access)
 <br />
-**If you get a notification about no sessions available please try again in a few minutes.**.
+<br />
+**If you get a notification about no sessions available please try again in a few minutes.**
 <br />
 **Note:** You might be presented with a Cisco dCloud User Agreement.
+<br />
 <br />
 Once the user agreement is accepted the dCloud session panel will appear.
 The test pod consists of a Linux VM only.
@@ -27,9 +29,11 @@ The test pod consists of a Linux VM only.
 
 ### Test 1 - Anyconnect to dCloud
 1. Click "Details". In the opened window ("Session Details") scroll down and copy Anyconnect host details and credentials:
+<br />
 ![anyconnect_test](https://user-images.githubusercontent.com/22170799/114373939-c7379480-9b8b-11eb-873d-3af42c38f0d8.png)
 <br />
 2. Open Anyconnect and input host details and credentials got in the previous step:
+<br />
 ![anyconnect_connect](https://user-images.githubusercontent.com/22170799/114374422-4c22ae00-9b8c-11eb-94ab-b56af2addb43.png)
 <br />
 <br />
