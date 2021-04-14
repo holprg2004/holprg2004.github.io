@@ -6,11 +6,13 @@ permalink: /teams/
 
 The procedure below shows how to activate Webex Teams account if you don't have it.
 <br />
+<br />
 **Note:** Webex Teams is used as primary communication channel for lab topics before, during and after the lab.
 
 ### Webex Teams account registration:
 1. Navigate to [Webex Teams](https://web.webex.com) page and enter your email address
 Note: please use email address used at ciscolive.com.
+<br />
 **Note:** Please use email address used at ciscolive.com.
 <br />
 ![clip_image001](https://user-images.githubusercontent.com/22170799/114710112-06094e00-9d36-11eb-8f25-2943b230a12e.jpg)
